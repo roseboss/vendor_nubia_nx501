@@ -18,7 +18,7 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/nx501/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/nubia/nx501/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/nubia/nx501/proprietary/bin/btnvtool:system/bin/btnvtool \
-    vendor/nubia/nx501/proprietary/bin/diag_dci_client:system/bin/diag_dci_client \
+#    vendor/nubia/nx501/proprietary/bin/diag_dci_client:system/bin/diag_dci_client \
     vendor/nubia/nx501/proprietary/bin/diag_mdlog:system/bin/diag_mdlog \
     vendor/nubia/nx501/proprietary/bin/diag_socket_log:system/bin/diag_socket_log \
     vendor/nubia/nx501/proprietary/bin/diag_uart_log:system/bin/diag_uart_log \
